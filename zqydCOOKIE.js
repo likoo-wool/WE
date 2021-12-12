@@ -12,7 +12,7 @@ module.exports = {
     }, {
       "id": "zqydCount",
       "name": "账号个数",
-      "val": "4",
+      "val": "10",
       "type": "number",
       "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
     }, {
@@ -87,6 +87,36 @@ module.exports = {
       "val": ""
     },{
       "key": "zqydbody5",
+      "val": ""
+    },{
+      "key": "zqydurl6",
+      "val": ""
+    },{
+      "key": "zqydbody6",
+      "val": ""
+    },{
+      "key": "zqydurl7",
+      "val": ""
+    },{
+      "key": "zqydbody7",
+      "val": ""
+    },{
+      "key": "zqydurl8",
+      "val": ""
+    },{
+      "key": "zqydbody8",
+      "val": ""
+    },{
+      "key": "zqydurl9",
+      "val": ""
+    },{
+      "key": "zqydbody9",
+      "val": ""
+    },{
+      "key": "zqydurl10",
+      "val": ""
+    },{
+      "key": "zqydbody10",
       "val": ""
     }],
     "sessions": [],
